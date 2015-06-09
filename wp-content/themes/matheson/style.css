@@ -8198,6 +8198,11 @@ a img.aligncenter {
 
 /*Custom*/
 
+body{
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
 h1
 {
   color: #99cc00 !important;
