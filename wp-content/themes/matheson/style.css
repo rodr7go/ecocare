@@ -154,6 +154,8 @@ svg:not(:root) {
 
 figure {
   margin: 0;
+  width: 25%;
+  display: inline-block;
 }
 
 fieldset {
@@ -8210,7 +8212,7 @@ h1
 
 #header
 {
-  
+
 }
 
 .container
@@ -8237,4 +8239,34 @@ h1
 {
   color: black;
 
+}
+
+.entry-content
+{
+  text-align: center;
+}
+
+.form-item
+{
+  padding: 1em;
+  width: 60%;
+  margin: .5em;
+}
+
+.wpcf7-form{
+  text-align: center;
+}
+
+.objectives-container
+{
+  width: 47%;
+  margin: 0 .5em;
+  vertical-align: top;
+  display: inline-block;
+  padding: 0;
+}
+
+.objectives-container > p
+{
+  width: 90% !important;
 }
