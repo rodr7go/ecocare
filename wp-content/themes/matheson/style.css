@@ -8270,3 +8270,10 @@ h1
 {
   width: 90% !important;
 }
+
+.caret
+{
+  border-top-color: white;
+  border-bottom-color: white;
+
+}
